@@ -36,6 +36,7 @@
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+- [translate-paper](https://github.com/zyf2492313716-cloud/translate-paper) - Translates academic paper PDFs into Chinese in place, keeping the original layout, tables and colours.
 
 
 
